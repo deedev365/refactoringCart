@@ -1,1 +1,1 @@
-# refactoringCart
+Рефаторинг старого класса корзины ( old/Cart.php )
